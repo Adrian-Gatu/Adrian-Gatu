@@ -7,4 +7,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/adrian-gatu-55a7362ba/)
+https://www.linkedin.com/in/adrian-gatu-55a7362ba/
