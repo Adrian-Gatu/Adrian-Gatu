@@ -4,6 +4,8 @@ Hi, I'm Adrian! Aspiring Cybersecurity Professional! I'm passionate about cybers
   - [Tenable Vulnerability Management](https://github.com/Adrian-Gatu/Tenable-Vulnerability-Management)
 ## 🚨 Threat Hunting and Security Operations
   - [Building a SOC and Honeynet in Azure (Live Traffic)](https://github.com/Adrian-Gatu/Azure-Cloud-SOC-Honeynet)
+## 🚩💻 CTF Competitions
+  - [CTF](https://github.com/Adrian-Gatu/CTF-Competitios/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
