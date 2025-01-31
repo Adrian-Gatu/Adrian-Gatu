@@ -2,6 +2,7 @@ Hi, I'm Adrian! Aspiring Cybersecurity Professional! I'm passionate about cybers
 
 ## ⚠️ Vulnerability Management Projects
   - [Tenable Vulnerability Management](https://github.com/Adrian-Gatu/Tenable-Vulnerability-Management)
+  - [STIG Implementations with Powershell](https://github.com/Adrian-Gatu/Tenable-Vulnerability-Management/tree/main/STIG%20Implementations)
 ## 🚨 Threat Hunting and Security Operations
   - [Building a SOC and Honeynet in Azure (Live Traffic)](https://github.com/Adrian-Gatu/Azure-Cloud-SOC-Honeynet)
 ## 🚩💻 CTF Competitions
