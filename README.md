@@ -9,5 +9,5 @@ Hi, I'm Adrian! Aspiring Cybersecurity Professional! I'm passionate about cybers
   - [CTF](https://github.com/Adrian-Gatu/CTF-Competitios/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
-
+[LinkedIn](https://www.linkedin.com/in/adrian-gatu-55a7362ba/)
 
